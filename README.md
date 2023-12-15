@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍 Based in Tirana, Albania, while my roots hail from the beautiful city of Vlora<br>🧠  Actively honing my expertise in Laravel, aiming for mastery<br>🤝 Open to collaborating on any interesting project<br>⚡ Founder of <a href="https://www.instagram.com/swish_web/" target="_blank">swish_web</a>
+<p align="left">🌍 Based in Tirana, while my roots hail from the coolest city in Albania, VLORA<br>🧠  Actively honing my expertise in Laravel, aiming for mastery<br>🤝 Open to collaborating on any interesting project<br>⚡ Founder of <a href="https://www.instagram.com/swish_web/" target="_blank">swish_web</a>
 </p>
 
 ###
