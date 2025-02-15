@@ -60,7 +60,6 @@ Tools:      Git | Docker
 ```sh
 >_ contact --reachme
 ```
-📩 **Email:** [aron9bazini@gmail.com](mailto:aron9bazini@gmail.com)  
 💼 **LinkedIn:** [Aron Bazini](https://www.linkedin.com/in/aronbazini/)
 
 ```sh
